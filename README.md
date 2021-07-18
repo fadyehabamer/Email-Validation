@@ -1,2 +1,2 @@
 # Email Validation
-Email validation using Javascript
+> Email validation using Javascript
